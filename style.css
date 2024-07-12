@@ -192,6 +192,13 @@ a {
   background-repeat: no-repeat;
 }
 
+.imane {
+  background-image: url(./img/imanepic.PNG);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 i {
   font-size: 28px;
 }
